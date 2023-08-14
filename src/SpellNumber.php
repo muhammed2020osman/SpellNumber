@@ -1,15 +1,15 @@
 <?php
 
-namespace Rmunate\Utilities;
+namespace muhammed2020osman\Utilities;
 
 use Illuminate\Support\Str;
-use Rmunate\Utilities\Bases\BaseSpellNumber;
-use Rmunate\Utilities\Exceptions\SpellNumberExceptions;
-use Rmunate\Utilities\Langs\Langs;
-use Rmunate\Utilities\Miscellaneous\Replaces;
-use Rmunate\Utilities\Miscellaneous\Utilities;
-use Rmunate\Utilities\Validator\Traits\CommonValidate;
-use Rmunate\Utilities\Wrappers\NumberFormatterWrapper;
+use muhammed2020osman\Utilities\Bases\BaseSpellNumber;
+use muhammed2020osman\Utilities\Exceptions\SpellNumberExceptions;
+use muhammed2020osman\Utilities\Langs\Langs;
+use muhammed2020osman\Utilities\Miscellaneous\Replaces;
+use muhammed2020osman\Utilities\Miscellaneous\Utilities;
+use muhammed2020osman\Utilities\Validator\Traits\CommonValidate;
+use muhammed2020osman\Utilities\Wrappers\NumberFormatterWrapper;
 
 /**
  * Class SpellNumber

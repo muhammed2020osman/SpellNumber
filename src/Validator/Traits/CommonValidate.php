@@ -1,9 +1,9 @@
 <?php
 
-namespace Rmunate\Utilities\Validator\Traits;
+namespace muhammed2020osman\Utilities\Validator\Traits;
 
-use Rmunate\Utilities\Exceptions\SpellNumberExceptions;
-use Rmunate\Utilities\Miscellaneous\Utilities;
+use muhammed2020osman\Utilities\Exceptions\SpellNumberExceptions;
+use muhammed2020osman\Utilities\Miscellaneous\Utilities;
 
 trait CommonValidate
 {

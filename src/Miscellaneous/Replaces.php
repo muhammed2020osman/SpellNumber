@@ -1,6 +1,6 @@
 <?php
 
-namespace Rmunate\Utilities\Miscellaneous;
+namespace muhammed2020osman\Utilities\Miscellaneous;
 
 use Illuminate\Support\Str;
 

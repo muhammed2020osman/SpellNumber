@@ -1,8 +1,8 @@
 <?php
 
-namespace Rmunate\Utilities\Miscellaneous;
+namespace muhammed2020osman\Utilities\Miscellaneous;
 
-use Rmunate\Utilities\Langs\Langs;
+use muhammed2020osman\Utilities\Langs\Langs;
 
 /**
  * The Utilities class provides various utility methods for common operations.

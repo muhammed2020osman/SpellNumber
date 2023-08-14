@@ -1,11 +1,11 @@
 <?php
 
-namespace Rmunate\Utilities\Bases;
+namespace muhammed2020osman\Utilities\Bases;
 
 use NumberFormatter;
-use Rmunate\Utilities\Exceptions\SpellNumberExceptions;
-use Rmunate\Utilities\Langs\Langs;
-use Rmunate\Utilities\Validator\SpellNumberValidator;
+use muhammed2020osman\Utilities\Exceptions\SpellNumberExceptions;
+use muhammed2020osman\Utilities\Langs\Langs;
+use muhammed2020osman\Utilities\Validator\SpellNumberValidator;
 
 /**
  * The BaseSpellNumber abstract class provides a base for converting numeric values to words.

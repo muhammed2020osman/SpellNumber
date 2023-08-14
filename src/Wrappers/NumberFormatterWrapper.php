@@ -1,9 +1,9 @@
 <?php
 
-namespace Rmunate\Utilities\Wrappers;
+namespace muhammed2020osman\Utilities\Wrappers;
 
 use NumberFormatter;
-use Rmunate\Utilities\Langs\Langs;
+use muhammed2020osman\Utilities\Langs\Langs;
 
 /**
  * The NumberFormatterWrapper class provides a simple wrapper around PHP's NumberFormatter class

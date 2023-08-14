@@ -1,6 +1,6 @@
 <?php
 
-namespace Rmunate\Utilities\Langs;
+namespace muhammed2020osman\Utilities\Langs;
 
 use Illuminate\Support\Facades\App;
 

@@ -8,7 +8,7 @@ Convierte fácilmente números a letras en Laravel utilizando esta biblioteca, q
 ![Laravel 9.0+](https://img.shields.io/badge/Laravel-9.0%2B-orange.svg)
 ![Laravel 10.0+](https://img.shields.io/badge/Laravel-10.0%2B-orange.svg)
 
-![SpellNumbers](https://github.com/rmunate/SpellNumber/assets/91748598/f2aea68b-fc9f-46be-ae54-a4955f0ce7a2)
+![SpellNumbers](https://github.com/muhammed2020osman/SpellNumber/assets/91748598/f2aea68b-fc9f-46be-ae54-a4955f0ce7a2)
 
 ## Tabla de Contenidos
 
@@ -23,7 +23,7 @@ Convierte fácilmente números a letras en Laravel utilizando esta biblioteca, q
 Para instalar la dependencia a través de Composer, ejecuta el siguiente comando:
 
 ```shell
-composer require rmunate/spell-number
+composer require muhammed2020osman/spell-number
 ```
 
 Es importante asegurarse de que la extensión `intl` esté habilitada y cargada en el entorno.

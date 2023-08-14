@@ -1,10 +1,10 @@
 <?php
 
-namespace Rmunate\Utilities\Validator;
+namespace muhammed2020osman\Utilities\Validator;
 
-use Rmunate\Utilities\Bases\BaseSpellNumberValidator;
-use Rmunate\Utilities\Exceptions\SpellNumberExceptions;
-use Rmunate\Utilities\Validator\Traits\CommonValidate;
+use muhammed2020osman\Utilities\Bases\BaseSpellNumberValidator;
+use muhammed2020osman\Utilities\Exceptions\SpellNumberExceptions;
+use muhammed2020osman\Utilities\Validator\Traits\CommonValidate;
 
 final class SpellNumberValidator extends BaseSpellNumberValidator
 {

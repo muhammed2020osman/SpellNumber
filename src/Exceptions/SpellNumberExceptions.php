@@ -1,6 +1,6 @@
 <?php
 
-namespace Rmunate\Utilities\Exceptions;
+namespace muhammed2020osman\Utilities\Exceptions;
 
 use Exception;
 use Throwable;

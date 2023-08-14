@@ -1,6 +1,6 @@
 <?php
 
-namespace Rmunate\Utilities\Bases;
+namespace muhammed2020osman\Utilities\Bases;
 
 /**
  * This class serves as a base validator for common data types.

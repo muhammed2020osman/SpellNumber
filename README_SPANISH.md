@@ -2,9 +2,9 @@
 
 Convierte fácilmente números a letras en Laravel utilizando esta biblioteca, que emplea la extensión nativa `PHP INTL` para realizar la conversión de manera sencilla. Con esta librería, puedes convertir números a letras en varios idiomas y también obtener el valor en formato de moneda según el idioma seleccionado. Los idiomas con soporte incluyen inglés, español, portugués, francés, italiano, rumano y gracias a la colaboración de [Siros Fakhri](https://github.com/sirosfakhri), también se ha agregado soporte para persa (Farsi).
 
-⚙️ Esta librería es compatible con versiones de Laravel 8.0 y superiores ⚙️
+⚙️ Esta librería es compatible con versiones de Laravel 8.1 y superiores ⚙️
 
-![Laravel 8.0+](https://img.shields.io/badge/Laravel-8.0%2B-orange.svg)
+![Laravel 8.1+](https://img.shields.io/badge/Laravel-8.1%2B-orange.svg)
 ![Laravel 9.0+](https://img.shields.io/badge/Laravel-9.0%2B-orange.svg)
 ![Laravel 10.0+](https://img.shields.io/badge/Laravel-10.0%2B-orange.svg)
 
